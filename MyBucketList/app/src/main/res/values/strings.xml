@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyBucketList</string>
+    <string name="things_to_do">Things to do</string>
+    <string name="image_things_to_do">List of things to do image</string>
+    <string name="places_to_go">Places to go</string>
+    <string name="image_places_to_go">picture of tokyo</string>
+    <string name="title">BucketList Categorize</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="list_item">List Item</string>
+    <string name="description">Description</string>
+</resources>
